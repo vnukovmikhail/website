@@ -1,0 +1,36 @@
+i {
+    color: royalblue;
+    text-decoration: underline;
+}
+
+i:hover {
+    color: rosybrown;
+    text-decoration: line-through;
+    cursor: pointer;
+}
+
+#p1:active {
+    color: plum;
+}
+
+#first {
+    background-image: url('65ff25ffbe3786b2de094f7051bbd873.gif');
+    background-size: cover;
+    height: 350px;
+    background-attachment: fixed;
+}
+
+#second {
+    height: 100px;
+}
+
+#third {
+    background-image: url('690dab3fdaa3f61593bd8a5318eb5419.gif');
+    background-size: cover;
+    height: 350px;
+    background-attachment: fixed;
+}
+
+#fourth {
+    height: 500px;
+}
